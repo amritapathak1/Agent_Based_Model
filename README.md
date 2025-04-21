@@ -11,7 +11,7 @@ To launch the interactive simulation locally using [Solara](https://solara.dev):
 
 ```bash
 solara run app.py
-
+```
 
 ## Files Overview
 
